@@ -1,4 +1,4 @@
-# Python-mini-project
+# Library  Management System
 This applicaiton is creted using the pyqt5 python library and mysqli database css is added as theme to project there are 4 different backgound themes are available.
 There is admin who manges different users and different user manages student account.
 Student are not allowed to access these applcaiton on behalf of student student operations are performed by users.
